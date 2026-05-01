@@ -1,4 +1,4 @@
-# Mini Test — Wildan Rahadian
+# Mini Test [Wildan Rahadian]
 
 Two small programming tasks completed in **JavaScript (Node.js)** as part of a technical assessment.
 
@@ -16,7 +16,7 @@ mini-test/
 
 ---
 
-## Task 1 — Small Program
+## Task 1 : Small Program
 
 Creates an array of numbers from 1 to 100, then prints them in **reverse order** with the following rules:
 
@@ -38,7 +38,7 @@ node task1_foobar.js
 
 ---
 
-## Task 2 — Jakarta Weather Forecast
+## Task 2 : Jakarta Weather Forecast
 
 Fetches and displays the **5-day weather forecast for Jakarta** using the [OpenWeatherMap API](https://openweathermap.org/), showing one temperature per day.
 
